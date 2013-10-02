@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="HectorTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="HectorTest.war">
+      <element id="artifact" artifact-name="HectorTest:war exploded" />
+    </root>
+  </artifact>
+</component>

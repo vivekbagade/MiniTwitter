@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="TwiMini:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="TwiMini.war">
+      <element id="artifact" artifact-name="TwiMini:war exploded" />
+    </root>
+  </artifact>
+</component>

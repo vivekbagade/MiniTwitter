@@ -1,0 +1,7 @@
+TwiMini: Main Project with REST API , Cassandra read wrappers and Postgres read wrappers
+WebSocketsFinal : Handle write requests via RabbitMq and handle websockets server side
+RabbitMqConsumer : To make jar for Websockets final
+PopulateCassandra : Codes to popluate cassandra 
+nginx.tar.gz : The nginx configuration
+calculatetrend.py : python cron for calculating trends
+
